@@ -6,7 +6,7 @@ Link Mono is your tech knowledge hub, inspired by the likes of Zenn and Qiita. D
 
 ## Presentation Slide 📌
 
-[![Horizon_2023_Hackathon](https://github.com/Ryukoku-Horizon/2023-Hack-S-no1/assets/88787489/142f25e2-2ae4-44d5-8fb9-18b3a8338d7c)](https://www.canva.com/design/DAGAr_H0pRw/6dWSfMt_v9LyTRY9rwIx1w/view)
+[![Horizon_2023_Hackathon](https://github.com/Riku-mono/2023-Hack-S-no1/assets/88787489/eefb2e39-07f6-40b9-ad94-b26f432bc1c9)](https://www.canva.com/design/DAGAr_H0pRw/6dWSfMt_v9LyTRY9rwIx1w/view)
 
 ## Features 🛠️
 
